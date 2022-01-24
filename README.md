@@ -1,0 +1,2 @@
+# ZMaster-EjerciciosDiarios-TestScript
+# Trial
